@@ -22,7 +22,7 @@ Becore using this prepare those info
 
 | Porfolio | link |
 | ------ | ------ |
-| Himel | https://himerlana.com |
+| Himel | https://himelrana.com |
 | Email | contact@himelrana.com |
 
 
